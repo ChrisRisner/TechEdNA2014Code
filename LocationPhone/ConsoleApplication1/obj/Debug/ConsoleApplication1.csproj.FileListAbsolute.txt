@@ -1,9 +1,0 @@
-C:\Users\elioda\gitstuff\LocationPhone\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-C:\Users\elioda\gitstuff\LocationPhone\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-C:\Users\elioda\gitstuff\LocationPhone\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-C:\Users\elioda\gitstuff\LocationPhone\ConsoleApplication1\bin\Debug\Microsoft.ServiceBus.dll
-C:\Users\elioda\gitstuff\LocationPhone\ConsoleApplication1\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
-C:\Users\elioda\gitstuff\LocationPhone\ConsoleApplication1\bin\Debug\Microsoft.ServiceBus.xml
-C:\Users\elioda\gitstuff\LocationPhone\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
-C:\Users\elioda\gitstuff\LocationPhone\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-C:\Users\elioda\gitstuff\LocationPhone\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
